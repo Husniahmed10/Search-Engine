@@ -1,4 +1,4 @@
-# LangChain - Chat With Search
+# LangChain - Chat With Search Engine
 
 This is a **Streamlit-based chatbot** powered by **LangChain** and **Groq LLMs**.  
 The chatbot can search the web, query **Wikipedia**, and fetch **research papers from Arxiv** — all in a conversational interface.
